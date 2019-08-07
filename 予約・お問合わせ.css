@@ -1,0 +1,103 @@
+<@charset"UTF-8";>
+
+body {
+  font-family: "HiraginoSans-W3","游ゴシック Medium","Yu Gothic Medium","游ゴシック体",YuGothic,sans-serif;
+  width: 1024px;
+  height: 3185px;
+  border: solid 10px black;
+}
+
+.topper {
+  border-bottom: 4px solid #979797;
+  width: 100%;
+}
+
+.Koh_logo1 {
+  width: 400px;
+  height: auto;
+}
+
+.insta {
+  width: 72px;
+  height: 74px;
+}
+
+.line {
+  width: 65px;
+  height: 65px;
+}
+
+.facebook {
+  width: 77px;
+  height: 50%;
+}
+
+.SNS {
+  float: right;
+  padding: 0px 30px 0px 30px;
+  margin-right: 60px;
+}
+
+.sns {
+  padding: 0px 50px;
+}
+
+.menu_con1:hover {
+  opacity: 0.7;
+}
+
+.menu_con2:hover {
+  opacity: 0.7;
+}
+
+.menu_con1 {
+  font-size: 25px;
+  color: #000000;
+  padding: 0px 40px;
+  text-decoration: none;
+}
+
+.menu_con2 {
+  font-size: 18px;
+  color: #000000;
+  padding: 0px 20px;
+  text-decoration: none;
+  float: right;
+}
+
+.menu {
+  text-align: center;
+  margin-bottom: 30px
+}
+
+
+.LEPRO {
+  float: right;
+  margin: 20px 30px;
+}
+
+.footer {
+  background-color: #FFEA9D;
+  width: 100%;
+  height: 200px;
+
+}
+
+.Koh_logo2 {
+  margin: 20px 30px;
+}
+
+.box {
+  text-align: center;
+  margin: 50px 0 50px 0;
+}
+
+h1 {
+font-family: "HiraginoSans-W4";
+font-size: 45px;
+font-weight: normal;
+background: #FFECA7;
+border-radius: 30px;
+width: 450px;
+padding-left: 50px;
+margin-left: 50px;
