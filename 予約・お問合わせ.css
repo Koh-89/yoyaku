@@ -7,6 +7,18 @@ body {
   border: solid 10px black;
 }
 
+@media (max-width: 1000px) {
+
+  .SNS {
+    width: 350px;
+  }
+
+  .sns {
+    padding: 0px 20px!important;
+  }
+}
+
+
 .topper {
   border-bottom: 4px solid #979797;
   width: 100%;
