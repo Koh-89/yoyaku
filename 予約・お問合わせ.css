@@ -119,8 +119,9 @@ border-radius: 30px;
 width: 400px;
 padding-left: 50px;
 margin-left: 50px;
+}
   
-  p {
-    text-align: center;
-    font-size: 18px;
+p {
+text-align: center;
+font-size: 18px;
   }
